@@ -1,0 +1,3 @@
+#Nơi khai báo thông tin liên quan đến cấu hình của tất cả thư viện
+server:
+  port: 8082
